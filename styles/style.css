@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Merriweather link */
+.merriweather {
+    font-family: "Merriweather", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+/* Inter link */
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.nav-header {
+    background-image: linear-gradient(rgba(7, 2, 17, 0.5)),url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 18px;
+
+
+}
+
+nav {
+    text-align: center;
+    padding-top: 177px;
+    padding-right: 344px;
+    padding-bottom: 177px;
+    padding-left: 344px;
+}
+
+.nav-head {
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.nav-title {
+    color: white;
+    font-size: 72px;
+    width: 550px;
+    margin: 0 auto;
+    margin-top: 25px;
+
+}
+.main-div-1{
+    text-align: center;
+}
+.main-dis-off{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+}
+.main-title{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight:500;
+    margin-top: 48px;
+}
+.main-cat{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 16px;
+}
+.main-img{
+    margin-top: 48px;
+    margin-bottom: 120px;
+}
+.main-div-2{
+    background-image: linear-gradient(rgba(7, 2, 17, 0.5)), url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 18px;
+    margin-bottom: 120px;
+    padding-bottom: 120px;
+}
+.main-div-2-well{
+    color: white;
+    font-size: 64px;
+    padding-top: 126px;
+    padding-right: 552px;
+    padding-left: 126px;
+    padding-bottom: 25px;
+}
+.main-div-2-sec{
+    color: #FFFFFF;
+    padding-left: 126px;
+    padding-right: 500px;
+    padding-bottom: 40px;
+}
+.main-div-2-join{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    padding-left: 150px;
+}
+.main-place{
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 25px;
+}
+.place-btn{
+    color: white;
+    background-color: #FF0000;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+    border-radius: 16px;
+    border: none;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.main-join-linear{
+    background: linear-gradient(rgba(166, 128, 128, 0.379));
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 16px;
+    margin-bottom: 120px;
+}
+.main-join-div-3{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+.div-main-container{
+    display: flex;
+    align-items: center;
+    margin-left: 300px;
+    margin-bottom: 120px;
+}
